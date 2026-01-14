@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 
-TOKEN = "8080540085:AAG65x6WWyLkVI4hjfG2r4gcwhMPhZx8UBg"
+TOKEN = "8164905487:AAF257UZZrwRAC6rRPt-pIL1Wh76Kiwamj4"
 
 trigger_words = ['men', 'man', 'мен', 'ман']
 
